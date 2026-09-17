@@ -16,6 +16,9 @@ Micro80 is a classical microprocessor design using the Z84C1516 Intelligent Peri
 - Three RC2014 expansion bus
 - Compact Flash mass storage
 - CP/M ready
+
+![topview](Micro80_rev0_topview.jpg)
+![bottom view](Micro80_rev0_backview.jpg)
 ### Design Information
 - Schematic
 - Gerber photoplots
