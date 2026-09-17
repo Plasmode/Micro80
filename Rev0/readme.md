@@ -1,1 +1,22 @@
-# Micro80 Rev0
+# Micro80, Z80 SBC with Z84C1516 (Rev0 prototype)
+### Introduction
+Micro80 is a classical microprocessor design using the Z84C1516 Intelligent Peripheral Controller
+
+![sideview](Micro80_rev0_sideview.jpg)
+
+### Features
+- Z84C1516 Intelligent Peripheral Controller
+- Z80@16MHz
+- Two channel SIO
+- Four counter/timer
+- Clock generator
+- PIO
+- 128K RAM in 2 banks
+- Up to 512K EPROM in 8 64K banks
+- Three RC2014 expansion bus
+- Compact Flash mass storage
+- CP/M ready
+### Design Information
+- Schematic
+- Gerber photoplots
+- Engineering changes
